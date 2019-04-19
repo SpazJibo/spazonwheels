@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "http://dev.spazonwheels.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hugo Hermit"

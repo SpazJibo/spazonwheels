@@ -19,3 +19,10 @@ I started riding motorcycles pretty late actually versus some. I got my first bi
 ![2007 Vulcan](/motorcycles/2007vulcan.jpg "2007 Kawasaki Vulcan")
 
 After a couple years of riding on my very stripped down Vulcan I transitioned to my first Harley a 2012 Ultra Limited. That is right I don't apparently like to start off small might as well get the biggest bike I can find. This bike served me well and went many miles till I ran the tires out and instead of getting tires I ended up getting a 2014 Ultra Limited to replace it. From there I added parts and raised the handlebars. I did all the work myself which was a first for me. I learned a lot about the bike and how to take it apart and put it back together.
+
+![2012 Limited](/motorcycles/2012ultralimited.jpg "2012 Harley Ultra Limited")
+![2014 Limited](/motorcycles/2014ultralimited.jpg "2014 Harley Ultra Limited")
+
+At the end of last season I decided to try out the Milwaukee Eight engine. I'd heard a lot of good things and decided to pick up a 2019 Harley Davidson Ultra Limited with the 114ci engine. My first impressions where that it had lots more torque. I immediately tore the bike down and started adding parts. This was during the 115th Harley Davidson Anniversary so I got LEDs, Legend Shocks, Tour pack removal kit, and 14" handlebars.
+
+~[2019 Limited](/motorcycles/2019ultralimited.jpg "2019 Harley Ultra Limited") 
