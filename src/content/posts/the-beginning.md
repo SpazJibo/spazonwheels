@@ -25,4 +25,4 @@ After a couple years of riding on my very stripped down Vulcan I transitioned to
 
 At the end of last season I decided to try out the Milwaukee Eight engine. I'd heard a lot of good things and decided to pick up a 2019 Harley Davidson Ultra Limited with the 114ci engine. My first impressions where that it had lots more torque. I immediately tore the bike down and started adding parts. This was during the 115th Harley Davidson Anniversary so I got LEDs, Legend Shocks, Tour pack removal kit, and 14" handlebars.
 
-~[2019 Limited](/motorcycles/2019ultralimited.jpg "2019 Harley Ultra Limited") 
+![2019 Limited](/motorcycles/2019ultralimited.jpg "2019 Harley Ultra Limited")
