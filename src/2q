@@ -1,4 +1,4 @@
-baseURL = "https://cjibo.github.io"
+baseURL = "http://dev.spazonwheels.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Spaz on Wheels"
