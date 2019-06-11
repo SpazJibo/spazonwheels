@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cjibo.github.io/</loc>
+    <loc>https://cjibo.github.io/docs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cjibo.github.io/tags/</loc>
+    <loc>https://cjibo.github.io/docs/tags/</loc>
     <priority>0</priority>
   </url>
   
