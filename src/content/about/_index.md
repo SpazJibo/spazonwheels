@@ -7,4 +7,4 @@ images:
 tags:
 ---
 
-About me goes here
+Welcome to Spaz on Wheels. This is my personal blog about my adventures on wheels. Currently my focus is on motorcycles but I love all things with wheels. I reside north of Milwaukee Wisconsin the home of Harley. I currently am riding both a Harley and an Indian though. My posts tell that story.
