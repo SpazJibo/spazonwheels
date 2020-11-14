@@ -6,7 +6,7 @@ date: 2019-06-11T20:52:31-05:00
 author: "Spaz on Wheels"
 image:
 tags: ["Harley", "Indian", "Motorcycle"] 
-categories: ["Motorcycle"]
+#categories: ["Blog"]
 ---
 
 Back on April 6th, 2019 I made a journey with Road Runner for him to test ride some bikes. I road my 2019 Ultra Limited while he was on his Victory. I ended up going on a test ride at an Indian dealer and four days later ended up picking up a 2019 Indian Chieftain Dark Horse.

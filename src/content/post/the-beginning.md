@@ -6,7 +6,7 @@ date: 2019-04-10T22:26:07-05:00
 author: "Spaz on Wheels"
 image:
 tags: ["motorcycle"]
-categories: ["Motorcycle"]
+#categories: ["Blog"]
 ---
 
 ## Intro
