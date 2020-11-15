@@ -5,7 +5,7 @@ languageCode = "en-us"
 disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
-paginate = 2 #frontpage pagination
+paginate = 5 #frontpage pagination
 hasCJKLanguage = true
 
 defaultContentLanguage = "en"
@@ -110,6 +110,10 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "VIDEOS"
   href =  "/videos/"
 
+  [[params.addtional_menus]]
+  title =  "GEAR"
+  href =  "/gear/"
+
 [outputFormats.Algolia]
 baseName = "algolia"
 isPlainText = true
@@ -126,3 +130,6 @@ params = ["categories", "tags"]
     startLevel = 2
   [markup.highlight]
     style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
