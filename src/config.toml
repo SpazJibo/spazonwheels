@@ -1,5 +1,5 @@
 baseURL = "https://spazonwheels.com/"
-title = "Spaz on Wheels"
+title = ""
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 disqusShortname = ""
@@ -16,10 +16,11 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "images/YellingAtMyself.jpg"
+  logo_image = "images/SpazLogo.png"
   SEOTitle = "Spaz on Wheels"
   description = ""
   keyword = "Harley, Harley-Davidsion, Triumph, Indian, Motorcycle, Blog, Spaz"
-  slogan = "Get on some wheels and spaz out!!!"
+  slogan = ""
   showtoc = false
   image_404 = "images/YellingAtMyself.jpg"
   title_404 = "Whoops!!!"
