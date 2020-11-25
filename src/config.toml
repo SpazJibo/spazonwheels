@@ -68,7 +68,7 @@ home = ["HTML", "RSS", "Algolia"]
   [params.social]
   rss            = true 
   #email          = "youremail@gmail.com"
-  #facebook      = "full profile url in facebook"
+  facebook      = "https://www.facebook.com/SpazOnWheels/"
   #googleplus    = "full profile url in googleplus"
   twitter       = "https://twitter.com/spazjibo"
   #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
